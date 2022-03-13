@@ -11,6 +11,32 @@ header, footer {
   font-size: 1.5rem;
 }
 
-nav {
-  ul: font-size: 1.5rem;
+nav ul {
+  font-size: 1.5rem;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+[class="wrapper"] {
+  background-color: #eee8d5;
+}
+
+[id="contents"] {
+  color: #93a1a1;
+}
+
+[id="favs"] {
+  color: #93a1a1;
+}
+[id="facts"] {
+  color: #93a1a1;
+}
+[id="types"] {
+  color: #93a1a1;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
 }
