@@ -1,6 +1,8 @@
 html {
   box-sizing: border-box;
   background-color: #fdf6e3;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -30,9 +32,11 @@ h1 {
 [id="favs"] {
   color: #93a1a1;
 }
+
 [id="facts"] {
   color: #93a1a1;
 }
+
 [id="types"] {
   color: #93a1a1;
 }
@@ -41,6 +45,6 @@ h1 {
   background-color: #b58900;
 }
 
-.dfn > strong {
+ {
   color: #fff;
 }
