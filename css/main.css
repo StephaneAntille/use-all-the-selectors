@@ -40,3 +40,7 @@ h1 {
 .wrapper > .dfn {
   background-color: #b58900;
 }
+
+.dfn > strong {
+  color: #fff;
+}
