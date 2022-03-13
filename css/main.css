@@ -44,7 +44,7 @@ h1 {
   background-color: #b58900;
 }
 
- {
+p + strong {
   color: #fff;
 }
 
